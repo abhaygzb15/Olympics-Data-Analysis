@@ -5,6 +5,12 @@ The given dataset can be accessed from here: [Kaggle Olympics Dataset](https://w
 ## Introduction
 This project involves a comprehensive Exploratory Data Analysis (EDA) on the modern Olympic Games dataset, spanning from Athens 1896 to Rio 2020. The dataset, collected from Kaggle, allows for an in-depth analysis of how the Olympics have evolved over time, focusing on various aspects such as the participation and performance of different nations, genders, sports, and events.
 
+![image](https://github.com/user-attachments/assets/690c3198-ff80-4245-bad4-e9eb83ad342b)
+![image](https://github.com/user-attachments/assets/2a891f5d-1a36-4756-a477-5de04781532c)
+![image](https://github.com/user-attachments/assets/cc79f11a-0656-4c54-9474-772bd21994e3)
+![image](https://github.com/user-attachments/assets/d1e2e80b-12ab-4817-b43b-2517a135181f)
+
+
 ## About the Dataset
 The project utilizes three primary datasets:
 
